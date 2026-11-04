@@ -81,6 +81,14 @@ CastleCrash/
 3. Use the Unity editor to playtest the prototype and iterate on gameplay systems.
 4. Add your own prefabs, scripts, and level logic under the `Assets` folder.
 
+## Project Management
+
+We use Jira to organize tasks, track sprint progress, and coordinate team development.
+
+- [CastleCrash Jira Board](https://raresvilcu5.atlassian.net/jira/software/projects/SCRUM/boards/1)
+
+*Access to the Jira board requires an invitation to the project.*
+
 ## Notes
 
 This project is a prototype foundation for a castle destruction game. It does not yet include a full gameplay implementation beyond the Unity setup and scene scaffolding.
