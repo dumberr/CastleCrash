@@ -81,6 +81,29 @@ CastleCrash/
 3. Use the Unity editor to playtest the prototype and iterate on gameplay systems.
 4. Add your own prefabs, scripts, and level logic under the `Assets` folder.
 
+## Catapult (Sprint 01)
+
+Scripts live in `Assets/Scripts/Catapult` and `Assets/Scripts/Projectiles`:
+
+- `CatapultAiming` (SCRUM-12): launch angle and power. Exposes `Angle`, `Power`, `LaunchPosition`, `LaunchVelocity` and the `AimChanged` event (handy for the trajectory preview and the UI).
+- `ProjectileLauncher` (SCRUM-13): loads a projectile into the catapult, launches it and reloads automatically. Exposes `LaunchingEnabled`, `ShotsFired` and the `ProjectileLoaded` / `ProjectileLaunched` / `ProjectileFinished` events (handy for limited ammo and the UI).
+- `Projectile`: projectile lifecycle (held, launched, finished when it stops, falls out of the level or gets destroyed).
+
+Setup in the editor:
+
+1. `CastleCrash/Create Block Prefabs` (if `Assets/Sprites/WhiteSquare.png` doesn't exist yet)
+2. `CastleCrash/Create Catapult Prefabs` creates `Assets/Prefabs/Catapult/Catapult.prefab` and `Assets/Prefabs/Projectiles/Projectile_Stone.prefab`
+3. Open `Prototype_Level`, then `CastleCrash/Add Catapult To Open Scene` places the catapult at `CatapultAnchor`
+
+### Controls
+
+| Action | Keyboard | Mouse |
+|---|---|---|
+| Angle | `W`/`S` or `↑`/`↓` | drag backwards (like a slingshot) |
+| Power | `D`/`A` or `→`/`←` | drag distance |
+| Launch | `Space` | release the button |
+| Restart | `R` | |
+
 ## Project Management
 
 We use Jira to organize tasks, track sprint progress, and coordinate team development.
