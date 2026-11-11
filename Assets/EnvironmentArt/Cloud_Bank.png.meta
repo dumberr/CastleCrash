@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: 85dc90ffe68fc4e628b189d1dd1d4aa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -878304113750031850
+    second: Cloud_Bank_0
+  - first:
+      213: -5896336476896637163
+    second: Cloud_Bank_1
+  - first:
+      213: -2914863236104676608
+    second: Cloud_Bank_2
+  - first:
+      213: -6152668517349783
+    second: Cloud_Bank_3
+  - first:
+      213: 7094307759594702611
+    second: Cloud_Bank_4
+  - first:
+      213: -5276979452148095390
+    second: Cloud_Bank_5
+  - first:
+      213: 3212949865178774206
+    second: Cloud_Bank_6
+  - first:
+      213: 520620153810376617
+    second: Cloud_Bank_7
+  - first:
+      213: 3214750400731827135
+    second: Cloud_Bank_8
+  - first:
+      213: -625764077303211382
+    second: Cloud_Bank_9
+  - first:
+      213: -860859513451107506
+    second: Cloud_Bank_10
+  - first:
+      213: -4426914032313874850
+    second: Cloud_Bank_11
+  - first:
+      213: -2625312313754191643
+    second: Cloud_Bank_12
+  - first:
+      213: -6858341369948987430
+    second: Cloud_Bank_13
+  - first:
+      213: 6728007472412154065
+    second: Cloud_Bank_14
+  - first:
+      213: -2173916895519475503
+    second: Cloud_Bank_15
+  - first:
+      213: 3722980181581847728
+    second: Cloud_Bank_16
+  - first:
+      213: 1593540376093129393
+    second: Cloud_Bank_17
+  - first:
+      213: 2202530075558967802
+    second: Cloud_Bank_18
+  - first:
+      213: -4299935711483989961
+    second: Cloud_Bank_19
+  - first:
+      213: 2919711526395375904
+    second: Cloud_Bank_20
+  - first:
+      213: 2114720269740247852
+    second: Cloud_Bank_21
+  - first:
+      213: 3749983532712019907
+    second: Cloud_Bank_22
+  - first:
+      213: 2514125941672199661
+    second: Cloud_Bank_23
+  - first:
+      213: 8744216474620089055
+    second: Cloud_Bank_24
+  - first:
+      213: 5280357452130382980
+    second: Cloud_Bank_25
+  - first:
+      213: -4446506601929678544
+    second: Cloud_Bank_26
+  - first:
+      213: -3763897587983232629
+    second: Cloud_Bank_27
+  - first:
+      213: 7389296555741917696
+    second: Cloud_Bank_28
+  - first:
+      213: -5896129063393294636
+    second: Cloud_Bank_29
+  - first:
+      213: -3886271064042009696
+    second: Cloud_Bank_30
+  - first:
+      213: -6002590954693851557
+    second: Cloud_Bank_31
+  - first:
+      213: -7537829291997339231
+    second: Cloud_Bank_32
+  - first:
+      213: -2037212174912243325
+    second: Cloud_Bank_33
+  - first:
+      213: 7666969223366246847
+    second: Cloud_Bank_34
+  - first:
+      213: -5265349438026235138
+    second: Cloud_Bank_35
+  - first:
+      213: -9219842206920156305
+    second: Cloud_Bank_36
+  - first:
+      213: 1385092773515089080
+    second: Cloud_Bank_37
+  - first:
+      213: 7113711314759271726
+    second: Cloud_Bank_38
+  - first:
+      213: 3161174006739286249
+    second: Cloud_Bank_39
+  - first:
+      213: -5903129214163938844
+    second: Cloud_Bank_40
+  - first:
+      213: 7012875492451703041
+    second: Cloud_Bank_41
+  - first:
+      213: 1909279170093576971
+    second: Cloud_Bank_42
+  - first:
+      213: 1649336105024156527
+    second: Cloud_Bank_43
+  - first:
+      213: 1823344386012753394
+    second: Cloud_Bank_44
+  - first:
+      213: -8341122695969612855
+    second: Cloud_Bank_45
+  - first:
+      213: -8884194308126367128
+    second: Cloud_Bank_46
+  - first:
+      213: 7165160828815054861
+    second: Cloud_Bank_47
+  - first:
+      213: -8002287582507910764
+    second: Cloud_Bank_48
+  - first:
+      213: -6520698359504890468
+    second: Cloud_Bank_49
+  - first:
+      213: -3114724023755320635
+    second: Cloud_Bank_50
+  - first:
+      213: 1678532195311469042
+    second: Cloud_Bank_51
+  - first:
+      213: 9029783402159696779
+    second: Cloud_Bank_52
+  - first:
+      213: -4429593997098273297
+    second: Cloud_Bank_53
+  - first:
+      213: -3720615612044577538
+    second: Cloud_Bank_54
+  - first:
+      213: -8898323029896003706
+    second: Cloud_Bank_55
+  - first:
+      213: -1628150508123354590
+    second: Cloud_Bank_56
+  - first:
+      213: -3210616985346669078
+    second: Cloud_Bank_57
+  - first:
+      213: -8320809752189422383
+    second: Cloud_Bank_58
+  - first:
+      213: -7470186800082818132
+    second: Cloud_Bank_59
+  - first:
+      213: 3292404088233690490
+    second: Cloud_Bank_60
+  - first:
+      213: 7414814533808699749
+    second: Cloud_Bank_61
+  - first:
+      213: 2612810840355771829
+    second: Cloud_Bank_62
+  - first:
+      213: 856683455754360574
+    second: Cloud_Bank_63
+  - first:
+      213: -3514498276364640767
+    second: Cloud_Bank_64
+  - first:
+      213: 2952240797392935842
+    second: Cloud_Bank_65
+  - first:
+      213: 6288020594143248774
+    second: Cloud_Bank_66
+  - first:
+      213: 4290801297843687242
+    second: Cloud_Bank_67
+  - first:
+      213: -1925174610398751897
+    second: Cloud_Bank_68
+  - first:
+      213: 5918708437260496028
+    second: Cloud_Bank_69
+  - first:
+      213: -5439972140744136225
+    second: Cloud_Bank_70
+  - first:
+      213: -2224626888383060721
+    second: Cloud_Bank_71
+  - first:
+      213: 9217075926596736641
+    second: Cloud_Bank_72
+  - first:
+      213: -7278826643996982951
+    second: Cloud_Bank_73
+  - first:
+      213: 3109439695995932108
+    second: Cloud_Bank_74
+  - first:
+      213: 4881869239394254410
+    second: Cloud_Bank_75
+  - first:
+      213: 3193452306048497957
+    second: Cloud_Bank_76
+  - first:
+      213: -8479872195161690963
+    second: Cloud_Bank_77
+  - first:
+      213: -8621082022850368081
+    second: Cloud_Bank_78
+  - first:
+      213: 1091387610904077883
+    second: Cloud_Bank_79
+  - first:
+      213: -8895465483009751018
+    second: Cloud_Bank_80
+  - first:
+      213: -546668164331546698
+    second: Cloud_Bank_81
+  - first:
+      213: -2823596111228564161
+    second: Cloud_Bank_82
+  - first:
+      213: 5116241135761831189
+    second: Cloud_Bank_83
+  - first:
+      213: -3757232981155820399
+    second: Cloud_Bank_84
+  - first:
+      213: 7874429388828698033
+    second: Cloud_Bank_85
+  - first:
+      213: 8328977730561091352
+    second: Cloud_Bank_86
+  - first:
+      213: -5462904362423523316
+    second: Cloud_Bank_87
+  - first:
+      213: 7105419965144960103
+    second: Cloud_Bank_88
+  - first:
+      213: 8328867877431646460
+    second: Cloud_Bank_89
+  - first:
+      213: -7959910161917790757
+    second: Cloud_Bank_90
+  - first:
+      213: 1048302062565466415
+    second: Cloud_Bank_91
+  - first:
+      213: -6141327747589993585
+    second: Cloud_Bank_92
+  - first:
+      213: 3536023573975717432
+    second: Cloud_Bank_93
+  - first:
+      213: -985661800172194556
+    second: Cloud_Bank_94
+  - first:
+      213: -132803571014632184
+    second: Cloud_Bank_95
+  - first:
+      213: 2262086018849643152
+    second: Cloud_Bank_96
+  - first:
+      213: -7082901732133857699
+    second: Cloud_Bank_97
+  - first:
+      213: 1322617490623411650
+    second: Cloud_Bank_98
+  - first:
+      213: 5991829877940007397
+    second: Cloud_Bank_99
+  - first:
+      213: 8125313006904174213
+    second: Cloud_Bank_100
+  - first:
+      213: 1028984440530025014
+    second: Cloud_Bank_101
+  - first:
+      213: -2471547387776447284
+    second: Cloud_Bank_102
+  - first:
+      213: 7810077731717303834
+    second: Cloud_Bank_103
+  - first:
+      213: -938218688595210798
+    second: Cloud_Bank_104
+  - first:
+      213: 7417343741615926987
+    second: Cloud_Bank_105
+  - first:
+      213: 2418865277039267299
+    second: Cloud_Bank_106
+  - first:
+      213: -4622098023452048866
+    second: Cloud_Bank_107
+  - first:
+      213: 8673870614307985520
+    second: Cloud_Bank_108
+  - first:
+      213: -5631330039528417426
+    second: Cloud_Bank_109
+  - first:
+      213: 5783234488696465535
+    second: Cloud_Bank_110
+  - first:
+      213: 8576912698806152320
+    second: Cloud_Bank_111
+  - first:
+      213: 2264555467632014430
+    second: Cloud_Bank_112
+  - first:
+      213: -6781106643987187837
+    second: Cloud_Bank_113
+  - first:
+      213: -1865360412222489970
+    second: Cloud_Bank_114
+  - first:
+      213: 7146790700146998081
+    second: Cloud_Bank_115
+  - first:
+      213: -707288834449102413
+    second: Cloud_Bank_116
+  - first:
+      213: -1700112854799229308
+    second: Cloud_Bank_117
+  - first:
+      213: -7168243300000894562
+    second: Cloud_Bank_118
+  - first:
+      213: 4034877342046248891
+    second: Cloud_Bank_119
+  - first:
+      213: -5467912065010610012
+    second: Cloud_Bank_120
+  - first:
+      213: 2804460151283086019
+    second: Cloud_Bank_121
+  - first:
+      213: -2986083299262252047
+    second: Cloud_Bank_122
+  - first:
+      213: -1508088531555708623
+    second: Cloud_Bank_123
+  - first:
+      213: 3391187629996715089
+    second: Cloud_Bank_124
+  - first:
+      213: 9195100908466849953
+    second: Cloud_Bank_125
+  - first:
+      213: 1089353642425198176
+    second: Cloud_Bank_126
+  - first:
+      213: 2773310095502772100
+    second: Cloud_Bank_127
+  - first:
+      213: -8574003248438322623
+    second: Cloud_Bank_128
+  - first:
+      213: -1300136792357675520
+    second: Cloud_Bank_129
+  - first:
+      213: 2440420026109951174
+    second: Cloud_Bank_130
+  - first:
+      213: 7057448034567305874
+    second: Cloud_Bank_131
+  - first:
+      213: -6098754260695026427
+    second: Cloud_Bank_132
+  - first:
+      213: -4696587867031785162
+    second: Cloud_Bank_133
+  - first:
+      213: 596820904592981589
+    second: Cloud_Bank_134
+  - first:
+      213: 7014710970071376882
+    second: Cloud_Bank_135
+  - first:
+      213: 7348962493399816939
+    second: Cloud_Bank_136
+  - first:
+      213: 4573781369259512945
+    second: Cloud_Bank_137
+  - first:
+      213: -486078315630139413
+    second: Cloud_Bank_138
+  - first:
+      213: -7741150710407749708
+    second: Cloud_Bank_139
+  - first:
+      213: 6316493707003835351
+    second: Cloud_Bank_140
+  - first:
+      213: 4190433070425507341
+    second: Cloud_Bank_141
+  - first:
+      213: -4495306092211954482
+    second: Cloud_Bank_142
+  - first:
+      213: 622366459431851800
+    second: Cloud_Bank_143
+  - first:
+      213: -7827937406918806178
+    second: Cloud_Bank_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud_Bank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 293
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124a2fdf03afc3f0800000000000000
+      internalID: -878304113750031850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc562e6310c2ea0800000000000000
+      internalID: -5896336476896637163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 569
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b922394535c87d0800000000000000
+      internalID: -2914863236104676608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 548
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664a9a3e242aeff0800000000000000
+      internalID: -6152668517349783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31780f1f15b047260800000000000000
+      internalID: 7094307759594702611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 438
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2666dab952764c6b0800000000000000
+      internalID: -5276979452148095390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 455
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabe1321e0b69c20800000000000000
+      internalID: 3212949865178774206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 449
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d6c2854d993700800000000000000
+      internalID: 520620153810376617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb4a2df4761d9c20800000000000000
+      internalID: 3214750400731827135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 437
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a542b13e6d057f0800000000000000
+      internalID: -625764077303211382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 437
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2b3365dc9d04f0800000000000000
+      internalID: -860859513451107506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 439
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564db474217092c0800000000000000
+      internalID: -4426914032313874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 490
+        width: 102
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f8323c54019bd0800000000000000
+      internalID: -2625312313754191643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf13df6cd642d0a0800000000000000
+      internalID: -6858341369948987430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 423
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8dc4f462fae5d50800000000000000
+      internalID: 6728007472412154065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 570
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d87757f912b4d1e0800000000000000
+      internalID: -2173916895519475503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 401
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc510dffbeaaa330800000000000000
+      internalID: 3722980181581847728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 449
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf54477846d1610800000000000000
+      internalID: 1593540376093129393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 586
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97ec82f65f09e10800000000000000
+      internalID: 2202530075558967802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 454
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730faff904f8354c0800000000000000
+      internalID: -4299935711483989961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_20
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f869f926e48820800000000000000
+      internalID: 2919711526395375904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 417
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b8f2d81eef85d10800000000000000
+      internalID: 2114720269740247852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 455
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c74ddc972e9a0430800000000000000
+      internalID: 3749983532712019907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 423
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de547f93938f3e220800000000000000
+      internalID: 2514125941672199661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_24
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 472
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd259d80e82b95970800000000000000
+      internalID: 8744216474620089055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 419
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484715d4029974940800000000000000
+      internalID: 5280357452130382980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 427
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316d8cddc5da42c0800000000000000
+      internalID: -4446506601929678544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 415
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815f41f513f3cbc0800000000000000
+      internalID: -3763897587983232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_28
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 560
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b309311e0c8660800000000000000
+      internalID: 7389296555741917696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_29
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 417
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6069a1bddbc2ea0800000000000000
+      internalID: -5896129063393294636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 476
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab85eebe01311ac0800000000000000
+      internalID: -3886271064042009696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_31
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 464
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56008d645382bca0800000000000000
+      internalID: -6002590954693851557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_32
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 419
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e6f03230446790800000000000000
+      internalID: -7537829291997339231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_33
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 433
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389314e025e5ab3e0800000000000000
+      internalID: -2037212174912243325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 699
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1099623eb866a60800000000000000
+      internalID: 7666969223366246847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_35
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 431
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2c4284598bde6b0800000000000000
+      internalID: -5265349438026235138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_36
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 570
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bde539c5a8c0080800000000000000
+      internalID: -9219842206920156305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_37
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 435
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d35af986d83310800000000000000
+      internalID: 1385092773515089080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_38
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 659
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2547ee20caf8b260800000000000000
+      internalID: 7113711314759271726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_39
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 498
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b4e0b20fbedb20800000000000000
+      internalID: 3161174006739286249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_40
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 431
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1178e714fd31ea0800000000000000
+      internalID: -5903129214163938844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_41
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 663
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10950a5ca1db25160800000000000000
+      internalID: 7012875492451703041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_42
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 482
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03fa761a4f1f7a10800000000000000
+      internalID: 1909279170093576971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_43
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 399
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f03fe27e93e610800000000000000
+      internalID: 1649336105024156527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_44
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 659
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd2e7ffe02dd4910800000000000000
+      internalID: 1823344386012753394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_45
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 439
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb58c6e9116e3c80800000000000000
+      internalID: -8341122695969612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_46
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 433
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a494e85005b480800000000000000
+      internalID: -8884194308126367128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_47
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 504
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089018afc3cf6360800000000000000
+      internalID: 7165160828815054861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_48
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 626
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b81677d922f090800000000000000
+      internalID: -8002287582507910764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_49
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 429
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951d32e363d185a0800000000000000
+      internalID: -6520698359504890468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_50
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 460
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c250beb00746c4d0800000000000000
+      internalID: -3114724023755320635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_51
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 512
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1c89d63285b4710800000000000000
+      internalID: 1678532195311469042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_52
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 544
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6274992c305d70800000000000000
+      internalID: 9029783402159696779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_53
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 628
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe531c78abbe682c0800000000000000
+      internalID: -4429593997098273297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_54
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 429
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef47f4240d7bd5cc0800000000000000
+      internalID: -3720615612044577538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_55
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 546
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ffe52895ec28480800000000000000
+      internalID: -8898323029896003706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_56
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 527
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a8f6a3db5a769e0800000000000000
+      internalID: -1628150508123354590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_57
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 504
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58396ccd89173d0800000000000000
+      internalID: -3210616985346669078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_58
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 564
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4b42dad9b868c80800000000000000
+      internalID: -8320809752189422383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_59
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 484
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab604f1fa0945890800000000000000
+      internalID: -7470186800082818132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_60
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 634
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7586380318f0bd20800000000000000
+      internalID: 3292404088233690490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_61
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 667
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569321b7886b6e660800000000000000
+      internalID: 7414814533808699749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_62
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 657
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b512b4bd91924420800000000000000
+      internalID: 2612810840355771829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_63
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 439
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65139601d83eb00800000000000000
+      internalID: 856683455754360574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_64
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 546
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e1091307ef93fc0800000000000000
+      internalID: -3514498276364640767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_65
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 457
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab95041d5778f820800000000000000
+      internalID: 2952240797392935842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_66
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 461
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681cf3e3a69834750800000000000000
+      internalID: 6288020594143248774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_67
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 429
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f02c7fb0dfb8b30800000000000000
+      internalID: 4290801297843687242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_68
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 431
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d49054e76845e0800000000000000
+      internalID: -1925174610398751897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_69
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 642
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ce40c07f9732250800000000000000
+      internalID: 5918708437260496028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_70
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 563
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9ace209265184b0800000000000000
+      internalID: -5439972140744136225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_71
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 439
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052520b1a98021e0800000000000000
+      internalID: -2224626888383060721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_72
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 413
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865a9898b1a9ef70800000000000000
+      internalID: 9217075926596736641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_73
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 455
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95149ee6bb96cfa90800000000000000
+      internalID: -7278826643996982951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_74
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 504
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd0652dde2f62b20800000000000000
+      internalID: 3109439695995932108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_75
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 447
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e300e3532efb340800000000000000
+      internalID: 4881869239394254410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_76
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 439
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293c25e3fb615c20800000000000000
+      internalID: 3193452306048497957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_77
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 447
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daceca2ba21715a80800000000000000
+      internalID: -8479872195161690963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_78
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 514
+        width: 212
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad6f70a393cb5880800000000000000
+      internalID: -8621082022850368081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_79
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 445
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36233cef33652f00800000000000000
+      internalID: 1091387610904077883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_80
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 709
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618847df545fc8480800000000000000
+      internalID: -8895465483009751018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_81
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 433
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d00f6338d968f0800000000000000
+      internalID: -546668164331546698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_82
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 522
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0c010c4290d8d0800000000000000
+      internalID: -2823596111228564161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_83
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 461
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515335ab43a800740800000000000000
+      internalID: 5116241135761831189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_84
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 453
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c43d3a280abdbc0800000000000000
+      internalID: -3757232981155820399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_85
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 431
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e7020fc7974d60800000000000000
+      internalID: 7874429388828698033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_86
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 448
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817ab3cfd19769370800000000000000
+      internalID: 8328977730561091352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_87
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 430
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0860d31d6ddf24b0800000000000000
+      internalID: -5462904362423523316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_88
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 442
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0f6aefc58b9260800000000000000
+      internalID: 7105419965144960103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_89
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 481
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8997fc435169370800000000000000
+      internalID: 8328867877431646460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_90
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 481
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53ed291e7b88190800000000000000
+      internalID: -7959910161917790757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_91
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 429
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f212688fb215c8e00800000000000000
+      internalID: 1048302062565466415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_92
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 431
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b06a3a3fe95caa0800000000000000
+      internalID: -6141327747589993585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_93
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 506
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836da34b4ba721130800000000000000
+      internalID: 3536023573975717432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_94
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 500
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4057014a0d93252f0800000000000000
+      internalID: -985661800172194556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_95
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df4c41bdf282ef0800000000000000
+      internalID: -132803571014632184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_96
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 490
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a19e4cf3b846f10800000000000000
+      internalID: 2262086018849643152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_97
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 433
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569925c66a74bd90800000000000000
+      internalID: -7082901732133857699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_98
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 474
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b356a991ea5210800000000000000
+      internalID: 1322617490623411650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_99
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 472
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1bf252781472350800000000000000
+      internalID: 5991829877940007397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_100
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 444
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58662694129e2c070800000000000000
+      internalID: 8125313006904174213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_101
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 431
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a323995efa74e00800000000000000
+      internalID: 1028984440530025014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_102
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 493
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4a02eebc43bdd0800000000000000
+      internalID: -2471547387776447284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_103
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 468
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec2334158f26c60800000000000000
+      internalID: 7810077731717303834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_104
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 429
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd46a8d217caf2f0800000000000000
+      internalID: -938218688595210798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_105
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 429
+        width: 140
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceebff85d2bfe660800000000000000
+      internalID: 7417343741615926987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_106
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 407
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edc37d5729819120800000000000000
+      internalID: 2418865277039267299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_107
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 482
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e120b1b26520bdfb0800000000000000
+      internalID: -4622098023452048866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_108
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 532
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d6891e57cf5870800000000000000
+      internalID: 8673870614307985520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_109
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 439
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e671ce44a2f79d1b0800000000000000
+      internalID: -5631330039528417426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_110
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 437
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786a87602d224050800000000000000
+      internalID: 5783234488696465535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_111
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 550
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca0e938a0570770800000000000000
+      internalID: 8576912698806152320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_112
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 522
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ff5e13315d6f10800000000000000
+      internalID: 2264555467632014430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_113
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 570
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873a156f6ba4e1a0800000000000000
+      internalID: -6781106643987187837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_114
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 600
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8af6639698ec16e0800000000000000
+      internalID: -1865360412222489970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_115
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 433
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb356c6408e2360800000000000000
+      internalID: 7146790700146998081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_116
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 435
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9af0d6d843f26f0800000000000000
+      internalID: -707288834449102413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_117
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 506
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48edd9bbd5cf768e0800000000000000
+      internalID: -1700112854799229308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_118
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 433
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e917fd792b8458c90800000000000000
+      internalID: -7168243300000894562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_119
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 432
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf50fc9093cef730800000000000000
+      internalID: 4034877342046248891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_120
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 570
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a058f572f21e14b0800000000000000
+      internalID: -5467912065010610012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_121
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 439
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c277ff16a17be620800000000000000
+      internalID: 2804460151283086019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_122
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 583
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3fbd6f0d4f86d0800000000000000
+      internalID: -2986083299262252047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_123
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 520
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13118c28871321be0800000000000000
+      internalID: -1508088531555708623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_124
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 538
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c27a4ae2bef0f20800000000000000
+      internalID: 3391187629996715089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_125
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 439
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c90bfe8f8b9f70800000000000000
+      internalID: 9195100908466849953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_126
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066288bbd592e1f00800000000000000
+      internalID: 1089353642425198176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_127
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 433
+        width: 161
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487827696d6cc7620800000000000000
+      internalID: 2773310095502772100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_128
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 457
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad9c9f875030980800000000000000
+      internalID: -8574003248438322623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_129
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 447
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eda1cc97cf4fde0800000000000000
+      internalID: -1300136792357675520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_130
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 600
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc7807751d1ed120800000000000000
+      internalID: 2440420026109951174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_131
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 387
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab921789711f160800000000000000
+      internalID: 7057448034567305874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_132
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 592
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057fdeff4fdc5ba0800000000000000
+      internalID: -6098754260695026427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_133
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 566
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6313921f73e52deb0800000000000000
+      internalID: -4696587867031785162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_134
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 556
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ebacc5375584800800000000000000
+      internalID: 596820904592981589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_135
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 428
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e3253672495160800000000000000
+      internalID: 7014710970071376882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_136
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 560
+        width: 39
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead3c68372ccf560800000000000000
+      internalID: 7348962493399816939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 409
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17453032ce5597f30800000000000000
+      internalID: 4573781369259512945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 386
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be768d7e85a1149f0800000000000000
+      internalID: -486078315630139413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_139
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 415
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf12697178e19490800000000000000
+      internalID: -7741150710407749708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 413
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d334ff6f81b8a750800000000000000
+      internalID: 6316493707003835351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_141
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 415
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0603c9fca8672a30800000000000000
+      internalID: 4190433070425507341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_142
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 392
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9e012de67d91c0800000000000000
+      internalID: -4495306092211954482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_143
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 409
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179d865ff613a800800000000000000
+      internalID: 622366459431851800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Bank_144
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 393
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55bc9017649d5390800000000000000
+      internalID: -7827937406918806178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cloud_Bank_0: -878304113750031850
+      Cloud_Bank_1: -5896336476896637163
+      Cloud_Bank_10: -860859513451107506
+      Cloud_Bank_100: 8125313006904174213
+      Cloud_Bank_101: 1028984440530025014
+      Cloud_Bank_102: -2471547387776447284
+      Cloud_Bank_103: 7810077731717303834
+      Cloud_Bank_104: -938218688595210798
+      Cloud_Bank_105: 7417343741615926987
+      Cloud_Bank_106: 2418865277039267299
+      Cloud_Bank_107: -4622098023452048866
+      Cloud_Bank_108: 8673870614307985520
+      Cloud_Bank_109: -5631330039528417426
+      Cloud_Bank_11: -4426914032313874850
+      Cloud_Bank_110: 5783234488696465535
+      Cloud_Bank_111: 8576912698806152320
+      Cloud_Bank_112: 2264555467632014430
+      Cloud_Bank_113: -6781106643987187837
+      Cloud_Bank_114: -1865360412222489970
+      Cloud_Bank_115: 7146790700146998081
+      Cloud_Bank_116: -707288834449102413
+      Cloud_Bank_117: -1700112854799229308
+      Cloud_Bank_118: -7168243300000894562
+      Cloud_Bank_119: 4034877342046248891
+      Cloud_Bank_12: -2625312313754191643
+      Cloud_Bank_120: -5467912065010610012
+      Cloud_Bank_121: 2804460151283086019
+      Cloud_Bank_122: -2986083299262252047
+      Cloud_Bank_123: -1508088531555708623
+      Cloud_Bank_124: 3391187629996715089
+      Cloud_Bank_125: 9195100908466849953
+      Cloud_Bank_126: 1089353642425198176
+      Cloud_Bank_127: 2773310095502772100
+      Cloud_Bank_128: -8574003248438322623
+      Cloud_Bank_129: -1300136792357675520
+      Cloud_Bank_13: -6858341369948987430
+      Cloud_Bank_130: 2440420026109951174
+      Cloud_Bank_131: 7057448034567305874
+      Cloud_Bank_132: -6098754260695026427
+      Cloud_Bank_133: -4696587867031785162
+      Cloud_Bank_134: 596820904592981589
+      Cloud_Bank_135: 7014710970071376882
+      Cloud_Bank_136: 7348962493399816939
+      Cloud_Bank_137: 4573781369259512945
+      Cloud_Bank_138: -486078315630139413
+      Cloud_Bank_139: -7741150710407749708
+      Cloud_Bank_14: 6728007472412154065
+      Cloud_Bank_140: 6316493707003835351
+      Cloud_Bank_141: 4190433070425507341
+      Cloud_Bank_142: -4495306092211954482
+      Cloud_Bank_143: 622366459431851800
+      Cloud_Bank_144: -7827937406918806178
+      Cloud_Bank_15: -2173916895519475503
+      Cloud_Bank_16: 3722980181581847728
+      Cloud_Bank_17: 1593540376093129393
+      Cloud_Bank_18: 2202530075558967802
+      Cloud_Bank_19: -4299935711483989961
+      Cloud_Bank_2: -2914863236104676608
+      Cloud_Bank_20: 2919711526395375904
+      Cloud_Bank_21: 2114720269740247852
+      Cloud_Bank_22: 3749983532712019907
+      Cloud_Bank_23: 2514125941672199661
+      Cloud_Bank_24: 8744216474620089055
+      Cloud_Bank_25: 5280357452130382980
+      Cloud_Bank_26: -4446506601929678544
+      Cloud_Bank_27: -3763897587983232629
+      Cloud_Bank_28: 7389296555741917696
+      Cloud_Bank_29: -5896129063393294636
+      Cloud_Bank_3: -6152668517349783
+      Cloud_Bank_30: -3886271064042009696
+      Cloud_Bank_31: -6002590954693851557
+      Cloud_Bank_32: -7537829291997339231
+      Cloud_Bank_33: -2037212174912243325
+      Cloud_Bank_34: 7666969223366246847
+      Cloud_Bank_35: -5265349438026235138
+      Cloud_Bank_36: -9219842206920156305
+      Cloud_Bank_37: 1385092773515089080
+      Cloud_Bank_38: 7113711314759271726
+      Cloud_Bank_39: 3161174006739286249
+      Cloud_Bank_4: 7094307759594702611
+      Cloud_Bank_40: -5903129214163938844
+      Cloud_Bank_41: 7012875492451703041
+      Cloud_Bank_42: 1909279170093576971
+      Cloud_Bank_43: 1649336105024156527
+      Cloud_Bank_44: 1823344386012753394
+      Cloud_Bank_45: -8341122695969612855
+      Cloud_Bank_46: -8884194308126367128
+      Cloud_Bank_47: 7165160828815054861
+      Cloud_Bank_48: -8002287582507910764
+      Cloud_Bank_49: -6520698359504890468
+      Cloud_Bank_5: -5276979452148095390
+      Cloud_Bank_50: -3114724023755320635
+      Cloud_Bank_51: 1678532195311469042
+      Cloud_Bank_52: 9029783402159696779
+      Cloud_Bank_53: -4429593997098273297
+      Cloud_Bank_54: -3720615612044577538
+      Cloud_Bank_55: -8898323029896003706
+      Cloud_Bank_56: -1628150508123354590
+      Cloud_Bank_57: -3210616985346669078
+      Cloud_Bank_58: -8320809752189422383
+      Cloud_Bank_59: -7470186800082818132
+      Cloud_Bank_6: 3212949865178774206
+      Cloud_Bank_60: 3292404088233690490
+      Cloud_Bank_61: 7414814533808699749
+      Cloud_Bank_62: 2612810840355771829
+      Cloud_Bank_63: 856683455754360574
+      Cloud_Bank_64: -3514498276364640767
+      Cloud_Bank_65: 2952240797392935842
+      Cloud_Bank_66: 6288020594143248774
+      Cloud_Bank_67: 4290801297843687242
+      Cloud_Bank_68: -1925174610398751897
+      Cloud_Bank_69: 5918708437260496028
+      Cloud_Bank_7: 520620153810376617
+      Cloud_Bank_70: -5439972140744136225
+      Cloud_Bank_71: -2224626888383060721
+      Cloud_Bank_72: 9217075926596736641
+      Cloud_Bank_73: -7278826643996982951
+      Cloud_Bank_74: 3109439695995932108
+      Cloud_Bank_75: 4881869239394254410
+      Cloud_Bank_76: 3193452306048497957
+      Cloud_Bank_77: -8479872195161690963
+      Cloud_Bank_78: -8621082022850368081
+      Cloud_Bank_79: 1091387610904077883
+      Cloud_Bank_8: 3214750400731827135
+      Cloud_Bank_80: -8895465483009751018
+      Cloud_Bank_81: -546668164331546698
+      Cloud_Bank_82: -2823596111228564161
+      Cloud_Bank_83: 5116241135761831189
+      Cloud_Bank_84: -3757232981155820399
+      Cloud_Bank_85: 7874429388828698033
+      Cloud_Bank_86: 8328977730561091352
+      Cloud_Bank_87: -5462904362423523316
+      Cloud_Bank_88: 7105419965144960103
+      Cloud_Bank_89: 8328867877431646460
+      Cloud_Bank_9: -625764077303211382
+      Cloud_Bank_90: -7959910161917790757
+      Cloud_Bank_91: 1048302062565466415
+      Cloud_Bank_92: -6141327747589993585
+      Cloud_Bank_93: 3536023573975717432
+      Cloud_Bank_94: -985661800172194556
+      Cloud_Bank_95: -132803571014632184
+      Cloud_Bank_96: 2262086018849643152
+      Cloud_Bank_97: -7082901732133857699
+      Cloud_Bank_98: 1322617490623411650
+      Cloud_Bank_99: 5991829877940007397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
