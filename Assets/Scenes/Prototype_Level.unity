@@ -1886,7 +1886,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 473421115936049465, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1968663112}
   m_SourcePrefab: {fileID: 100100000, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
 --- !u!1001 &1398713817
 PrefabInstance:
@@ -2467,6 +2470,24 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bc7c68d410a39342b91aef3e2e1702a, type: 3}
+--- !u!1 &1968663111 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 473421115936049465, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
+  m_PrefabInstance: {fileID: 1309420027}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1968663112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968663111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88af2e6cfc8746c46acc53223458f2f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LimitedProjectiles
+  maxProjectiles: 3
 --- !u!1 &2087115159
 GameObject:
   m_ObjectHideFlags: 0
