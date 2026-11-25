@@ -1529,6 +1529,8 @@ GameObject:
   - component: {fileID: 594668296}
   - component: {fileID: 594668300}
   - component: {fileID: 594668301}
+  - component: {fileID: 594668302}
+  - component: {fileID: 594668303}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1651,6 +1653,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreHUD
   scoreText: {fileID: 1170815055}
+--- !u!114 &594668302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594668295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba63633f06eb50244967b5983e4a82a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+--- !u!114 &594668303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594668295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0be1f3c07e7c97b43be56337701ab21c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PauseMenuUI
 --- !u!1001 &667234425
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3003,6 +3029,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 473421115936049465, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1968663112}
+    - targetCorrespondingSourceObject: {fileID: 473421115936049465, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1968663116}
   m_SourcePrefab: {fileID: 100100000, guid: 8c6b97ce6b138994e9544da04ddadd43, type: 3}
 --- !u!1 &1394636438
 GameObject:
@@ -3983,6 +4012,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21b0a7161de7408bb6c40131c7f9240f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CatapultAiming
+--- !u!114 &1968663116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968663111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8aab3fa6197e34684fa6f518ec25a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  pointsCount: 25
+  timeStep: 0.07
 --- !u!1 &1970228469
 GameObject:
   m_ObjectHideFlags: 0
