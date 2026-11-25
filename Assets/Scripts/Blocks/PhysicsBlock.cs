@@ -1,9 +1,14 @@
+using System;
 using UnityEngine;
 
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class PhysicsBlock : MonoBehaviour
 {
+    public event Action<PhysicsBlock> Broken;
+
+    public float MaxHealth => health;
+
     [Header("Durabilitate")]
     [SerializeField] private float health = 20f;
     [Tooltip("Sub aceasta viteza relativa, impactul e ignorat (blocurile care stau unul peste altul nu se strica).")]
@@ -14,6 +19,7 @@ public class PhysicsBlock : MonoBehaviour
     [SerializeField] private GameObject destroyEffect;
 
     private float currentHealth;
+    private bool broken;
 
     private void Awake()
     {
@@ -38,6 +44,10 @@ public class PhysicsBlock : MonoBehaviour
 
     private void Break()
     {
+        if (broken) return;
+        broken = true;
+        Broken?.Invoke(this);
+
         if (destroyEffect != null)
             Instantiate(destroyEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
