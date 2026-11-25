@@ -15,6 +15,14 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class Projectile : MonoBehaviour
 {
+    [Header("Tip proiectil")]
+    [Tooltip("Numele afisat in selectorul de proiectile (UI).")]
+    [SerializeField] private string displayName = "Piatra";
+    [Tooltip("Inmulteste viteza de lansare. < 1 = proiectil greu, cu raza mai mica. Traiectoria afisata tine cont de el.")]
+    [SerializeField, Range(0.3f, 1.5f)] private float launchSpeedMultiplier = 1f;
+    [Tooltip("Culoarea folosita in UI pentru acest tip.")]
+    [SerializeField] private Color uiColor = new Color(0.6f, 0.6f, 0.62f, 1f);
+
     [Header("Terminare")]
     [SerializeField] private float settleSpeed = 0.3f;
     [SerializeField] private float settleTime = 1f;
@@ -31,6 +39,10 @@ public class Projectile : MonoBehaviour
 
     /// <summary>Se apeleaza la lansare, cu viteza initiala.</summary>
     public event Action<Projectile, Vector2> Launched;
+
+    public string DisplayName => string.IsNullOrEmpty(displayName) ? name : displayName;
+    public float LaunchSpeedMultiplier => launchSpeedMultiplier;
+    public Color UiColor => uiColor;
 
     public bool IsLaunched { get; private set; }
     public bool IsFinished { get; private set; }
