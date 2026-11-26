@@ -169,6 +169,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ecdad31397a4ccb9b55f0579f17b6ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
+  displayName: Piatra
+  launchSpeedMultiplier: 1
+  uiColor: {r: 0.6, g: 0.6, b: 0.62, a: 1}
   settleSpeed: 0.3
   settleTime: 1
   maxLifetime: 12

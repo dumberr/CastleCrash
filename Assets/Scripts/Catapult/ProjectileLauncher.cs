@@ -55,6 +55,9 @@ public class ProjectileLauncher : MonoBehaviour
         }
     }
 
+    /// <summary>Prefab-ul folosit la urmatoarea incarcare (vezi ProjectileSelector).</summary>
+    public Projectile ProjectilePrefab => projectilePrefab;
+
     public Projectile LoadedProjectile { get; private set; }
     public Projectile ActiveProjectile { get; private set; }
     public int ShotsFired { get; private set; }
@@ -117,9 +120,28 @@ public class ProjectileLauncher : MonoBehaviour
         IgnoreOwnCollisions(p);
 
         LoadedProjectile = p;
+        aiming.SpeedMultiplier = p.LaunchSpeedMultiplier;
         UpdateIndicator();
         ProjectileLoaded?.Invoke(p);
         return true;
+    }
+
+    /// <summary>
+    /// Schimba tipul de proiectil. Daca in catapulta sta deja un proiectil,
+    /// e inlocuit imediat cu unul de tipul nou (alegerea se face inainte de lansare).
+    /// </summary>
+    public void SetProjectilePrefab(Projectile prefab)
+    {
+        if (prefab == null || prefab == projectilePrefab) return;
+        projectilePrefab = prefab;
+
+        if (LoadedProjectile == null) return;
+
+        Projectile old = LoadedProjectile;
+        LoadedProjectile = null;
+        old.gameObject.SetActive(false); // nu mai participa la nimic in frame-ul curent
+        Destroy(old.gameObject);
+        Load();
     }
 
     /// <summary>Lanseaza proiectilul incarcat cu unghiul si puterea curente.</summary>

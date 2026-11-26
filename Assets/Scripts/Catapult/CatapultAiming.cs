@@ -86,8 +86,25 @@ public class CatapultAiming : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Multiplicator de viteza al proiectilului incarcat (ex. piatra grea zboara mai incet).
+    /// Il seteaza ProjectileLauncher la incarcare; nu schimba puterea afisata in UI.
+    /// </summary>
+    public float SpeedMultiplier
+    {
+        get => speedMultiplier;
+        set
+        {
+            float v = Mathf.Max(0.01f, value);
+            if (Mathf.Approximately(v, speedMultiplier)) return;
+            speedMultiplier = v;
+            UpdateVisuals();
+            AimChanged?.Invoke();
+        }
+    }
+
     /// <summary>Viteza initiala pe care o primeste proiectilul.</summary>
-    public Vector2 LaunchVelocity => Direction * Power;
+    public Vector2 LaunchVelocity => Direction * (Power * speedMultiplier);
 
     /// <summary>Punctul din care pleaca proiectilul.</summary>
     public Vector2 LaunchPosition => launchPoint != null ? (Vector2)launchPoint.position : (Vector2)transform.position;
@@ -96,6 +113,7 @@ public class CatapultAiming : MonoBehaviour
 
     private Camera cam;
     private Vector2 dragStartWorld;
+    private float speedMultiplier = 1f;
 
     private void Awake()
     {

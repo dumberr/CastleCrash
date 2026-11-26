@@ -102,6 +102,8 @@ GameObject:
   - component: {fileID: 6567072295341816924}
   - component: {fileID: 8926022255754287088}
   - component: {fileID: 6913616617075725456}
+  - component: {fileID: 295308323750152616}
+  - component: {fileID: 4235417636965542696}
   m_Layer: 0
   m_Name: Catapult
   m_TagString: Untagged
@@ -177,6 +179,46 @@ MonoBehaviour:
   waitForProjectileToFinish: 1
   reloadDelay: 0.5
   hideIndicatorWhenEmpty: 1
+--- !u!114 &295308323750152616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 473421115936049465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26318e8b9ca842a9a3b826e10d2c344f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileSelector
+  options:
+  - prefab: {fileID: 7256280768717523300, guid: 393b614df767b394ca56b5e3f24be007, type: 3}
+    limit: -1
+  - prefab: {fileID: 4738180486648543498, guid: a8e738c75fc24138ac145d712a0cb056, type: 3}
+    limit: 1
+  - prefab: {fileID: 2239073520844661148, guid: 53bb5d8b6236418d94420a7553b55c9b, type: 3}
+    limit: 1
+  startIndex: 0
+  enableKeyboard: 1
+--- !u!114 &4235417636965542696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 473421115936049465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d778da707540bcbc6643ef948717d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileSelectorHUD
+  buttonSize: {x: 200, y: 64}
+  spacing: 12
+  bottomMargin: 24
+  canvasSortingOrder: -1
+  normalTint: {r: 0.12, g: 0.12, b: 0.16, a: 0.85}
+  selectedTint: {r: 0.95, g: 0.75, b: 0.2, a: 0.95}
+  unavailableTint: {r: 0.12, g: 0.12, b: 0.16, a: 0.35}
 --- !u!1 &672427603199020597
 GameObject:
   m_ObjectHideFlags: 0
