@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4200143846921650930}
   - component: {fileID: 795676149294901722}
   - component: {fileID: 1081228287683805478}
+  - component: {fileID: 466499524049037139}
   m_Layer: 0
   m_Name: Block_Base
   m_TagString: Block
@@ -183,3 +184,21 @@ MonoBehaviour:
   minImpactSpeed: 2
   damageMultiplier: 1
   destroyEffect: {fileID: 0}
+--- !u!114 &466499524049037139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2702285741873876395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1873d8efc5f06a24e918d01731f44341, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BlockVisual
+  tileTexture: 0
+  damageStages:
+  - {fileID: 21300000, guid: e7da4a2af5679a14ba5ccd6fddaaa891, type: 3}
+  - {fileID: 21300000, guid: aff3954f7ae07b9419bbe9428ac9d445, type: 3}
+  crackColor: {r: 0.15, g: 0.1, b: 0.08, a: 0.85}
+  damagedBrightness: 0.7

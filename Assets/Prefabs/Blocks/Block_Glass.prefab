@@ -48,6 +48,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: tileTexture
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: crackColor.a
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: crackColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: crackColor.g
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: crackColor.r
+      value: 0.95
+      objectReference: {fileID: 0}
     - target: {fileID: 795676149294901722, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Mass
       value: 0.5
@@ -65,16 +85,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6200000, guid: 3854beff50d0f394ea55cdd2cd75ec01, type: 2}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: abc154e0c9b9a2a4cbc6389b45c041b9, type: 3}
+    - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.a
-      value: 0.8
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.g
-      value: 0.9
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.r
-      value: 0.65
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

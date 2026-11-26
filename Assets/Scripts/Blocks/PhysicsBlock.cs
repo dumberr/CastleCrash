@@ -6,8 +6,11 @@ using UnityEngine;
 public class PhysicsBlock : MonoBehaviour
 {
     public event Action<PhysicsBlock> Broken;
+    public event Action<PhysicsBlock> Damaged;
 
     public float MaxHealth => health;
+    public float CurrentHealth => currentHealth;
+    public float HealthPercent => health > 0f ? Mathf.Clamp01(currentHealth / health) : 0f;
 
     [Header("Durabilitate")]
     [SerializeField] private float health = 20f;
@@ -38,8 +41,10 @@ public class PhysicsBlock : MonoBehaviour
 
     public void TakeDamage(float amount)
     {
+        if (broken || amount <= 0f) return;
         currentHealth -= amount;
         if (currentHealth <= 0f) Break();
+        else Damaged?.Invoke(this);
     }
 
     private void Break()
