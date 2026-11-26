@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 466499524049037139, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: tileTexture
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2702285741873876395, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Name
       value: Block_Wood
@@ -57,16 +61,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6200000, guid: 7cbe84a01da46ed41867e04bf97e9282, type: 2}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: afaba4dfcfb4335498f404cc6c378076, type: 3}
+    - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.b
-      value: 0.25
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.g
-      value: 0.45
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6129929056363871587, guid: 15d4c96b61779ac409bc651ce8fb3824, type: 3}
       propertyPath: m_Color.r
-      value: 0.65
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
