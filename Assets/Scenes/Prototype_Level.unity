@@ -2459,6 +2459,7 @@ GameObject:
   - component: {fileID: 984322071}
   - component: {fileID: 984322070}
   - component: {fileID: 984322073}
+  - component: {fileID: 984322074}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2584,6 +2585,34 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &984322074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 984322069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d257991475346ab9d9a41f88fb8101a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
+  launcher: {fileID: 0}
+  followSmoothTime: 0.2
+  lookAheadTime: 0.25
+  maxLookAhead: 2
+  followOffset: {x: 0, y: 0.5}
+  followOrthoSize: 4.5
+  zoomSmoothTime: 0.4
+  returnDelay: 0.8
+  returnSmoothTime: 0.45
+  boundsMode: 0
+  customBounds:
+    serializedVersion: 2
+    x: -20
+    y: -8
+    width: 40
+    height: 16
 --- !u!1001 &988920814
 PrefabInstance:
   m_ObjectHideFlags: 0

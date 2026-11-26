@@ -194,12 +194,17 @@ public class CatapultAiming : MonoBehaviour
             FireRequested?.Invoke();
     }
 
+    // Inceputul drag-ului e tinut in coordonate de ecran si convertit in world in fiecare frame,
+    // ca drag-ul sa ramana corect daca intre timp camera se misca (Camera Follow).
+    private Vector2 dragStartScreen;
+
     private void HandleMouse()
     {
         var mouse = Mouse.current;
         if (mouse == null || cam == null) return;
 
-        Vector2 mouseWorld = cam.ScreenToWorldPoint(mouse.position.ReadValue());
+        Vector2 mouseScreen = mouse.position.ReadValue();
+        Vector2 mouseWorld = cam.ScreenToWorldPoint(mouseScreen);
 
         if (mouse.leftButton.wasPressedThisFrame)
         {
@@ -207,10 +212,11 @@ public class CatapultAiming : MonoBehaviour
             if (dragStartRadius > 0f && Vector2.Distance(mouseWorld, LaunchPosition) > dragStartRadius) return;
 
             IsDragging = true;
-            dragStartWorld = mouseWorld;
+            dragStartScreen = mouseScreen;
         }
 
         if (!IsDragging) return;
+        dragStartWorld = cam.ScreenToWorldPoint(dragStartScreen);
 
         // Tragem "inapoi" ca la prastie: directia de lansare e opusa directiei de tragere.
         Vector2 pull = dragStartWorld - mouseWorld;
